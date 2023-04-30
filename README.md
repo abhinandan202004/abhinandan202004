@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhinandan202004
+- 👋 Hi, I’m @Abhinandan
 - 👀 I’m interested in becoming full stack web developer...
 - 🌱 I’m currently learning javascript and backend development
 - 💞️ I’m looking to collaborate on new web projects
